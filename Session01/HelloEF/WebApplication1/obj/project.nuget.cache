@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9XRfEi+ytCX9trCzuAAWpdgTvShMNGpSTGIo/TgUsVbhaDoE2RGBtw6WjndhzH/Eb86c2O1p0fZTTzJql7l3cw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alireza\\source\\repos\\Golrang\\Session01\\HelloEF\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alireza\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
