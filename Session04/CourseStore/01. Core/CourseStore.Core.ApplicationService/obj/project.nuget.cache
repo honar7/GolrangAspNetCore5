@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2g14/bfBWf/yrp1xboaEuLLqTJiC0YGLGjMlj+XNt/XlQ9i+geG7vPW9dZunNWPhdmEfZ1R5qW6RpG/5pqOLJQ==",
+  "success": true,
+  "projectFilePath": "G:\\Src\\Vs\\GolrangAspNetCore5\\Session04\\CourseStore\\01. Core\\CourseStore.Core.ApplicationService\\CourseStore.Core.ApplicationService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alireza\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.2\\microsoft.entityframeworkcore.abstractions.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
