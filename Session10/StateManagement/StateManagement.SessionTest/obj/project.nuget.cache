@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eW4W1agBJFHoJZ3LHpow7DcwURAgpPOa1UuVnb/GL3epR4urEwH4/+K4KtlwZCseFooxGO4CVoBDnKk/ZU/pCA==",
+  "success": true,
+  "projectFilePath": "G:\\Src\\NET 5 Courses\\GolrangAspNetCore5\\Session10\\StateManagement\\StateManagement.SessionTest\\StateManagement.SessionTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alireza\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
