@@ -45,18 +45,20 @@ namespace UrlRouting
             app.UseRouting();
             //app.UseMiddleware<CityPopulationMiddleware>();
             //app.UseMiddleware<ProvienceCenterMiddleware>();
-            app.Use(async (context, next) =>
-            {
-                var endpoint = context.GetEndpoint();
-                if(endpoint != null)
-                {
-                    await context.Response.WriteAsync(endpoint.DisplayName);
-                }
-            });
+            //app.Use(async (context, next) =>
+            //{
+            //    var endpoint = context.GetEndpoint();
+            //    if(endpoint != null)
+            //    {
+            //        await context.Response.WriteAsync(endpoint.DisplayName);
+            //    }
+            //});
             app.UseEndpoints(endpoints =>
             {
                 //endpoints.MapGet("/pc/{provience=tehran}", new ProvienceCenterMiddleware().Invoke);
                 //endpoints.MapGet("/pc/{provience?}", new ProvienceCenterMiddleware().Invoke);
+                endpoints.MapGet("/pc/{provience}", new ProvienceCenterMiddleware().Invoke);
+                endpoints.MapGet("/tt/{city}", new CityPopulationMiddleware().Invoke).WithMetadata(new RouteNameMetadata("Pop"));
 
                 //endpoints.MapGet("/cp/{city}", new CityPopulationMiddleware().Invoke).WithMetadata(new RouteNameMetadata("Pop"));
                 //endpoints.MapGet("t/{first}/{seccond}", async context =>

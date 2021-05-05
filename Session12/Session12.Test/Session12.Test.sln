@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Session12.Test.MyLogic", "Session12.Test.MyLogic\Session12.Test.MyLogic.csproj", "{336A1A4D-BDA1-4658-9B07-72626BA35BC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Session12.Test.MyLogic.Test", "Session12.Test.MyLogic.Test\Session12.Test.MyLogic.Test.csproj", "{DF045B15-8AE0-4AC3-A1DA-87F74B79F995}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{336A1A4D-BDA1-4658-9B07-72626BA35BC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{336A1A4D-BDA1-4658-9B07-72626BA35BC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{336A1A4D-BDA1-4658-9B07-72626BA35BC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{336A1A4D-BDA1-4658-9B07-72626BA35BC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF045B15-8AE0-4AC3-A1DA-87F74B79F995}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF045B15-8AE0-4AC3-A1DA-87F74B79F995}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF045B15-8AE0-4AC3-A1DA-87F74B79F995}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF045B15-8AE0-4AC3-A1DA-87F74B79F995}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9364DF30-2F83-4252-80BD-69A426E2B4C7}
+	EndGlobalSection
+EndGlobal

@@ -43,6 +43,7 @@ namespace UrlRouting.Middlewares
                     //httpContext.Response.Redirect($"/cp/{provience}");
                     var linkGenerator = httpContext.RequestServices.GetService<LinkGenerator>();
                     var path = linkGenerator.GetPathByRouteValues(httpContext, "Pop", new { city = provience });
+                    httpContext.Response.Redirect(path);
                     break;
                 }
            // }

@@ -1,0 +1,9 @@
+G:\Src\NET 5 Courses\GolrangAspNetCore5\Session12\Session12.Test\Session12.Test.MyLogic\bin\Debug\netcoreapp3.1\Session12.Test.MyLogic.deps.json
+G:\Src\NET 5 Courses\GolrangAspNetCore5\Session12\Session12.Test\Session12.Test.MyLogic\bin\Debug\netcoreapp3.1\Session12.Test.MyLogic.dll
+G:\Src\NET 5 Courses\GolrangAspNetCore5\Session12\Session12.Test\Session12.Test.MyLogic\bin\Debug\netcoreapp3.1\Session12.Test.MyLogic.pdb
+G:\Src\NET 5 Courses\GolrangAspNetCore5\Session12\Session12.Test\Session12.Test.MyLogic\obj\Debug\netcoreapp3.1\Session12.Test.MyLogic.csprojAssemblyReference.cache
+G:\Src\NET 5 Courses\GolrangAspNetCore5\Session12\Session12.Test\Session12.Test.MyLogic\obj\Debug\netcoreapp3.1\Session12.Test.MyLogic.AssemblyInfoInputs.cache
+G:\Src\NET 5 Courses\GolrangAspNetCore5\Session12\Session12.Test\Session12.Test.MyLogic\obj\Debug\netcoreapp3.1\Session12.Test.MyLogic.AssemblyInfo.cs
+G:\Src\NET 5 Courses\GolrangAspNetCore5\Session12\Session12.Test\Session12.Test.MyLogic\obj\Debug\netcoreapp3.1\Session12.Test.MyLogic.csproj.CoreCompileInputs.cache
+G:\Src\NET 5 Courses\GolrangAspNetCore5\Session12\Session12.Test\Session12.Test.MyLogic\obj\Debug\netcoreapp3.1\Session12.Test.MyLogic.dll
+G:\Src\NET 5 Courses\GolrangAspNetCore5\Session12\Session12.Test\Session12.Test.MyLogic\obj\Debug\netcoreapp3.1\Session12.Test.MyLogic.pdb
