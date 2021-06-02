@@ -1,0 +1,17 @@
+G:\Src\NET 5 Courses\GolrangAspNetCore5\FinalExam\BlogManagement\BlogManagement.Core.ApplicationServices\bin\Debug\net5.0\BlogManagement.Core.ApplicationServices.deps.json
+G:\Src\NET 5 Courses\GolrangAspNetCore5\FinalExam\BlogManagement\BlogManagement.Core.ApplicationServices\bin\Debug\net5.0\BlogManagement.Core.ApplicationServices.dll
+G:\Src\NET 5 Courses\GolrangAspNetCore5\FinalExam\BlogManagement\BlogManagement.Core.ApplicationServices\bin\Debug\net5.0\ref\BlogManagement.Core.ApplicationServices.dll
+G:\Src\NET 5 Courses\GolrangAspNetCore5\FinalExam\BlogManagement\BlogManagement.Core.ApplicationServices\bin\Debug\net5.0\BlogManagement.Core.ApplicationServices.pdb
+G:\Src\NET 5 Courses\GolrangAspNetCore5\FinalExam\BlogManagement\BlogManagement.Core.ApplicationServices\bin\Debug\net5.0\BlogManagement.Core.Domain.dll
+G:\Src\NET 5 Courses\GolrangAspNetCore5\FinalExam\BlogManagement\BlogManagement.Core.ApplicationServices\bin\Debug\net5.0\Golrang.Framework.dll
+G:\Src\NET 5 Courses\GolrangAspNetCore5\FinalExam\BlogManagement\BlogManagement.Core.ApplicationServices\bin\Debug\net5.0\BlogManagement.Core.Domain.pdb
+G:\Src\NET 5 Courses\GolrangAspNetCore5\FinalExam\BlogManagement\BlogManagement.Core.ApplicationServices\bin\Debug\net5.0\Golrang.Framework.pdb
+G:\Src\NET 5 Courses\GolrangAspNetCore5\FinalExam\BlogManagement\BlogManagement.Core.ApplicationServices\obj\Debug\net5.0\BlogManagement.Core.ApplicationServices.csprojAssemblyReference.cache
+G:\Src\NET 5 Courses\GolrangAspNetCore5\FinalExam\BlogManagement\BlogManagement.Core.ApplicationServices\obj\Debug\net5.0\BlogManagement.Core.ApplicationServices.GeneratedMSBuildEditorConfig.editorconfig
+G:\Src\NET 5 Courses\GolrangAspNetCore5\FinalExam\BlogManagement\BlogManagement.Core.ApplicationServices\obj\Debug\net5.0\BlogManagement.Core.ApplicationServices.AssemblyInfoInputs.cache
+G:\Src\NET 5 Courses\GolrangAspNetCore5\FinalExam\BlogManagement\BlogManagement.Core.ApplicationServices\obj\Debug\net5.0\BlogManagement.Core.ApplicationServices.AssemblyInfo.cs
+G:\Src\NET 5 Courses\GolrangAspNetCore5\FinalExam\BlogManagement\BlogManagement.Core.ApplicationServices\obj\Debug\net5.0\BlogManagement.Core.ApplicationServices.csproj.CoreCompileInputs.cache
+G:\Src\NET 5 Courses\GolrangAspNetCore5\FinalExam\BlogManagement\BlogManagement.Core.ApplicationServices\obj\Debug\net5.0\BlogManagement.Core.ApplicationServices.csproj.CopyComplete
+G:\Src\NET 5 Courses\GolrangAspNetCore5\FinalExam\BlogManagement\BlogManagement.Core.ApplicationServices\obj\Debug\net5.0\BlogManagement.Core.ApplicationServices.dll
+G:\Src\NET 5 Courses\GolrangAspNetCore5\FinalExam\BlogManagement\BlogManagement.Core.ApplicationServices\obj\Debug\net5.0\ref\BlogManagement.Core.ApplicationServices.dll
+G:\Src\NET 5 Courses\GolrangAspNetCore5\FinalExam\BlogManagement\BlogManagement.Core.ApplicationServices\obj\Debug\net5.0\BlogManagement.Core.ApplicationServices.pdb

@@ -1,0 +1,15 @@
+G:\Src\NET 5 Courses\GolrangAspNetCore5\FinalExam\BlogManagement\BlogManagement.Core.Domain\bin\Debug\net5.0\BlogManagement.Core.Domain.deps.json
+G:\Src\NET 5 Courses\GolrangAspNetCore5\FinalExam\BlogManagement\BlogManagement.Core.Domain\bin\Debug\net5.0\BlogManagement.Core.Domain.dll
+G:\Src\NET 5 Courses\GolrangAspNetCore5\FinalExam\BlogManagement\BlogManagement.Core.Domain\bin\Debug\net5.0\ref\BlogManagement.Core.Domain.dll
+G:\Src\NET 5 Courses\GolrangAspNetCore5\FinalExam\BlogManagement\BlogManagement.Core.Domain\bin\Debug\net5.0\BlogManagement.Core.Domain.pdb
+G:\Src\NET 5 Courses\GolrangAspNetCore5\FinalExam\BlogManagement\BlogManagement.Core.Domain\bin\Debug\net5.0\Golrang.Framework.dll
+G:\Src\NET 5 Courses\GolrangAspNetCore5\FinalExam\BlogManagement\BlogManagement.Core.Domain\bin\Debug\net5.0\Golrang.Framework.pdb
+G:\Src\NET 5 Courses\GolrangAspNetCore5\FinalExam\BlogManagement\BlogManagement.Core.Domain\obj\Debug\net5.0\BlogManagement.Core.Domain.csprojAssemblyReference.cache
+G:\Src\NET 5 Courses\GolrangAspNetCore5\FinalExam\BlogManagement\BlogManagement.Core.Domain\obj\Debug\net5.0\BlogManagement.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\Src\NET 5 Courses\GolrangAspNetCore5\FinalExam\BlogManagement\BlogManagement.Core.Domain\obj\Debug\net5.0\BlogManagement.Core.Domain.AssemblyInfoInputs.cache
+G:\Src\NET 5 Courses\GolrangAspNetCore5\FinalExam\BlogManagement\BlogManagement.Core.Domain\obj\Debug\net5.0\BlogManagement.Core.Domain.AssemblyInfo.cs
+G:\Src\NET 5 Courses\GolrangAspNetCore5\FinalExam\BlogManagement\BlogManagement.Core.Domain\obj\Debug\net5.0\BlogManagement.Core.Domain.csproj.CoreCompileInputs.cache
+G:\Src\NET 5 Courses\GolrangAspNetCore5\FinalExam\BlogManagement\BlogManagement.Core.Domain\obj\Debug\net5.0\BlogManagement.Core.Domain.csproj.CopyComplete
+G:\Src\NET 5 Courses\GolrangAspNetCore5\FinalExam\BlogManagement\BlogManagement.Core.Domain\obj\Debug\net5.0\BlogManagement.Core.Domain.dll
+G:\Src\NET 5 Courses\GolrangAspNetCore5\FinalExam\BlogManagement\BlogManagement.Core.Domain\obj\Debug\net5.0\ref\BlogManagement.Core.Domain.dll
+G:\Src\NET 5 Courses\GolrangAspNetCore5\FinalExam\BlogManagement\BlogManagement.Core.Domain\obj\Debug\net5.0\BlogManagement.Core.Domain.pdb

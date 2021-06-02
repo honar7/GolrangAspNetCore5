@@ -1,0 +1,11 @@
+G:\Src\NET 5 Courses\GolrangAspNetCore5\FinalExam\BlogManagement\Golrang.Framework\bin\Debug\net5.0\Golrang.Framework.deps.json
+G:\Src\NET 5 Courses\GolrangAspNetCore5\FinalExam\BlogManagement\Golrang.Framework\bin\Debug\net5.0\Golrang.Framework.dll
+G:\Src\NET 5 Courses\GolrangAspNetCore5\FinalExam\BlogManagement\Golrang.Framework\bin\Debug\net5.0\ref\Golrang.Framework.dll
+G:\Src\NET 5 Courses\GolrangAspNetCore5\FinalExam\BlogManagement\Golrang.Framework\bin\Debug\net5.0\Golrang.Framework.pdb
+G:\Src\NET 5 Courses\GolrangAspNetCore5\FinalExam\BlogManagement\Golrang.Framework\obj\Debug\net5.0\Golrang.Framework.GeneratedMSBuildEditorConfig.editorconfig
+G:\Src\NET 5 Courses\GolrangAspNetCore5\FinalExam\BlogManagement\Golrang.Framework\obj\Debug\net5.0\Golrang.Framework.AssemblyInfoInputs.cache
+G:\Src\NET 5 Courses\GolrangAspNetCore5\FinalExam\BlogManagement\Golrang.Framework\obj\Debug\net5.0\Golrang.Framework.AssemblyInfo.cs
+G:\Src\NET 5 Courses\GolrangAspNetCore5\FinalExam\BlogManagement\Golrang.Framework\obj\Debug\net5.0\Golrang.Framework.csproj.CoreCompileInputs.cache
+G:\Src\NET 5 Courses\GolrangAspNetCore5\FinalExam\BlogManagement\Golrang.Framework\obj\Debug\net5.0\Golrang.Framework.dll
+G:\Src\NET 5 Courses\GolrangAspNetCore5\FinalExam\BlogManagement\Golrang.Framework\obj\Debug\net5.0\ref\Golrang.Framework.dll
+G:\Src\NET 5 Courses\GolrangAspNetCore5\FinalExam\BlogManagement\Golrang.Framework\obj\Debug\net5.0\Golrang.Framework.pdb

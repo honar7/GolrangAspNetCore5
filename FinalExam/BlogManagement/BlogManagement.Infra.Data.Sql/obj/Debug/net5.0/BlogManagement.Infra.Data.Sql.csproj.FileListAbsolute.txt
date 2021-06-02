@@ -1,0 +1,17 @@
+G:\Src\NET 5 Courses\GolrangAspNetCore5\FinalExam\BlogManagement\BlogManagement.Infra.Data.Sql\bin\Debug\net5.0\BlogManagement.Infra.Data.Sql.deps.json
+G:\Src\NET 5 Courses\GolrangAspNetCore5\FinalExam\BlogManagement\BlogManagement.Infra.Data.Sql\bin\Debug\net5.0\BlogManagement.Infra.Data.Sql.dll
+G:\Src\NET 5 Courses\GolrangAspNetCore5\FinalExam\BlogManagement\BlogManagement.Infra.Data.Sql\bin\Debug\net5.0\ref\BlogManagement.Infra.Data.Sql.dll
+G:\Src\NET 5 Courses\GolrangAspNetCore5\FinalExam\BlogManagement\BlogManagement.Infra.Data.Sql\bin\Debug\net5.0\BlogManagement.Infra.Data.Sql.pdb
+G:\Src\NET 5 Courses\GolrangAspNetCore5\FinalExam\BlogManagement\BlogManagement.Infra.Data.Sql\bin\Debug\net5.0\BlogManagement.Core.Domain.dll
+G:\Src\NET 5 Courses\GolrangAspNetCore5\FinalExam\BlogManagement\BlogManagement.Infra.Data.Sql\bin\Debug\net5.0\Golrang.Framework.dll
+G:\Src\NET 5 Courses\GolrangAspNetCore5\FinalExam\BlogManagement\BlogManagement.Infra.Data.Sql\bin\Debug\net5.0\BlogManagement.Core.Domain.pdb
+G:\Src\NET 5 Courses\GolrangAspNetCore5\FinalExam\BlogManagement\BlogManagement.Infra.Data.Sql\bin\Debug\net5.0\Golrang.Framework.pdb
+G:\Src\NET 5 Courses\GolrangAspNetCore5\FinalExam\BlogManagement\BlogManagement.Infra.Data.Sql\obj\Debug\net5.0\BlogManagement.Infra.Data.Sql.csprojAssemblyReference.cache
+G:\Src\NET 5 Courses\GolrangAspNetCore5\FinalExam\BlogManagement\BlogManagement.Infra.Data.Sql\obj\Debug\net5.0\BlogManagement.Infra.Data.Sql.GeneratedMSBuildEditorConfig.editorconfig
+G:\Src\NET 5 Courses\GolrangAspNetCore5\FinalExam\BlogManagement\BlogManagement.Infra.Data.Sql\obj\Debug\net5.0\BlogManagement.Infra.Data.Sql.AssemblyInfoInputs.cache
+G:\Src\NET 5 Courses\GolrangAspNetCore5\FinalExam\BlogManagement\BlogManagement.Infra.Data.Sql\obj\Debug\net5.0\BlogManagement.Infra.Data.Sql.AssemblyInfo.cs
+G:\Src\NET 5 Courses\GolrangAspNetCore5\FinalExam\BlogManagement\BlogManagement.Infra.Data.Sql\obj\Debug\net5.0\BlogManagement.Infra.Data.Sql.csproj.CoreCompileInputs.cache
+G:\Src\NET 5 Courses\GolrangAspNetCore5\FinalExam\BlogManagement\BlogManagement.Infra.Data.Sql\obj\Debug\net5.0\BlogManagement.Infra.Data.Sql.csproj.CopyComplete
+G:\Src\NET 5 Courses\GolrangAspNetCore5\FinalExam\BlogManagement\BlogManagement.Infra.Data.Sql\obj\Debug\net5.0\BlogManagement.Infra.Data.Sql.dll
+G:\Src\NET 5 Courses\GolrangAspNetCore5\FinalExam\BlogManagement\BlogManagement.Infra.Data.Sql\obj\Debug\net5.0\ref\BlogManagement.Infra.Data.Sql.dll
+G:\Src\NET 5 Courses\GolrangAspNetCore5\FinalExam\BlogManagement\BlogManagement.Infra.Data.Sql\obj\Debug\net5.0\BlogManagement.Infra.Data.Sql.pdb
